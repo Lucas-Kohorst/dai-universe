@@ -10,7 +10,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [cDAI](https://compound.finance/ctokens)    | Tokens representing a balance earning interest on Compound                                                                    | Mainnet |
 | [iDAI](https://bzx.network/faq-fulcrum.html)    | Tokens representing a balance earning interest on Fulcrum                                                                     |    Mainnet     |
 | [aDAI](https://aave.com/)    | Token representing a DAI deposit in Aave protocol DAI reserve, pegged to 1$ USD and ever-growing directly into the user Balance.                                                                                                                              |    Mainnet   |
-| [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |     Rinkeby    |
+| [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |     Mainnet    |
 | [gDAI](https://devpost.com/software/gdai)    | Uses iDai interest to enable future gas-less DAI transfers                                                                    |   Mainnet      |
 | [lsDAI](https://devpost.com/software/lsdai)   | Earn Compound interest on your collateral with rDai, while providing liquidity for hedges against variable Compound interest. |    Mainnet     |
 | [wxDAI](https://forum.poa.network/t/dappcon-2019-achieving-scalability-on-ethereum-1-0-through-interoperability/3036)   | Wrapped xDai bridged to Mainnet in a form of ERC20                                                                            |         |
@@ -27,7 +27,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [zkDAI](https://devpost.com/software/ethsingapore-zk-dai)   | Hidden Dai transactions using zkSnarks                                                                                        |         |
 | [yDAI](https://finance.yahoo.com/news/paradigm-research-partner-announces-framework-194901871.html)    | Get short exposure on Dai                                                                                                     |    Proposal     |
 | [∞DAI](https://twitter.com/JordanLyall/status/1166805059318894593)    | Earned interest goes to smart contract cover insurance                                                                        | Idea    |
-| [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                            | Idea    |
+| [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                           | Idea    |
 | [DDAI](https://devpost.com/software/ddai) | Gas station network enabled interest delegating dai with smart DeFi recipes | In progress
 | [CherryDAI](https://www.notion.so/Double-bonding-curve-liquidity-pool-as-an-automatic-swap-market-maker-e6f2eb5001244ed89832789e07e1ca71) | An interest bearing token representing fractional ownership in the liquidity pool plus the returns from offering the swaps | In progress
 
